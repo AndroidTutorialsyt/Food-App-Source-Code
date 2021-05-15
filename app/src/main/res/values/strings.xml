@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Food App Demo</string>
+    <string name="food_for_everyone">Food for Everyone</string>
+    <string name="get_started">Get Started</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_price">Food Price</string>
+    <string name="delivery_info">Delivery info</string>
+    <string name="food_delivery_desc">Delivered between monday aug and thursday 20 from 8pm to 9:32 pm</string>
+    <string name="return_policy">Return policy</string>
+    <string name="return_policy_txt">All our foods are double checked before leaving our stores so by any case you found a broken food please contact our hotline immediately.</string>
+    <string name="order_now">Order Now</string>
+    <string name="no_internet_connection">No internet Connection</string>
+    <string name="no_internet_txt">Your internet connection is currently \n not available please check or try again.</string>
+    <string name="try_again">Try Again</string>
+</resources>
